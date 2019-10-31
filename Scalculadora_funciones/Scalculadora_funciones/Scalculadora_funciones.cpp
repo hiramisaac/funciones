@@ -92,7 +92,7 @@ void suma()
 
 void resta()
 {
-
+	
 }
 
 void multiplicacion()
